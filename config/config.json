@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "kap",
+    "password": null,
+    "database": "toDo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "kap",
+    "password": null,
+    "database": "toDo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "kap",
+    "password": null,
+    "database": "toDo",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
